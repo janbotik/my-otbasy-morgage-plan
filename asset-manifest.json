@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/otbasy_calculator_web/static/css/main.e6c13ad2.css",
+    "main.js": "/otbasy_calculator_web/static/js/main.0aa32d51.js",
+    "static/js/453.c1418cab.chunk.js": "/otbasy_calculator_web/static/js/453.c1418cab.chunk.js",
+    "index.html": "/otbasy_calculator_web/index.html",
+    "main.e6c13ad2.css.map": "/otbasy_calculator_web/static/css/main.e6c13ad2.css.map",
+    "main.0aa32d51.js.map": "/otbasy_calculator_web/static/js/main.0aa32d51.js.map",
+    "453.c1418cab.chunk.js.map": "/otbasy_calculator_web/static/js/453.c1418cab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0aa32d51.js"
+  ]
+}
